@@ -30,7 +30,6 @@ These defects led to:
 ### 🎯 Project Goals
 - Reduce welding defects by **20%**
 - Increase production capacity by **20%** without raising defect rates
-![Facility Defect Distribution](images/ChatGPT Image Jan 24, 2026, 12_52_15 AM.png)
 
 ---
 
