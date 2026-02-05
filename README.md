@@ -1,6 +1,6 @@
 # Dymon's Portfolio 
 <html lang="en">
-<head>
+
 # 🏭 Manufacturing Defect Reduction Analysis  
 ### 📊 Quality Improvement in Electronic Board Production
 
@@ -12,42 +12,7 @@
 
 A manufacturing plant producing electronic circuit boards experienced a rise in **welding-related defects** during the **Manual Finish (Thru-Hole) process**, while also facing increased product demand.
 
-        p {
-            wowowoww
-        }
-</head>
-<body>
 
-    <div class="outer-scroll-box">
-        <h2>Outer Box (Blue)</h2>
-        <p>Scroll down to see the inner box and more outer content.</p>
-        <p>Line 1</p>
-        <p>Line 2</p>
-
-        <div class="inner-scroll-box">
-            <h3>Inner Box (Red)</h3>
-            <p>Scroll this inner box independently.</p>
-            <p>Inner Line 1</p>
-            <p>Inner Line 2</p>
-            <p>Inner Line 3</p>
-            <p>Inner Line 4</p>
-            <p>Inner Line 5</p>
-            <p>Inner Line 6</p>
-            <p>Inner Line 7</p>
-            <p>Inner Line 8</p>
-        </div>
-
-        <p>More outer box content below the inner box.</p>
-        <p>Line 3</p>
-        <p>Line 4</p>
-        <p>Line 5</p>
-        <p>Line 6</p>
-        <p>Line 7</p>
-        <p>Line 8</p>
-        <p>End of outer box content.</p>
-    </div>
-
-</body>
 <div style="height:120px;width:520px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
 As you can see, once there's enough text in this box, the box will grow scroll bars... that's why we call it a scroll box! You could also place an image into the scroll box.
 </div>
