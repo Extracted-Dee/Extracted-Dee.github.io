@@ -8,6 +8,27 @@
 
 </body>
 </html>
+# Hi, I’m Dymon 👋
+
+📊 **Aspiring Data Analyst** with hands-on experience in:
+- Predictive modeling & machine learning
+- Exploratory data analysis (EDA)
+- Process improvement & quality analysis
+
+## 🔍 Featured Projects
+- 🏭 **Manufacturing Defect Reduction Analysis**  
+  Data-driven quality improvement using defect trend analysis and root cause frameworks
+
+- 📉 **Employee Attrition Prediction**  
+  Machine learning models (Logistic Regression & Random Forest) to identify turnover risk
+
+## 🛠 Tools & Skills
+- Python (Pandas, Scikit-learn, Matplotlib)
+- Data Visualization & EDA
+- Statistical Analysis
+- Business & Operational Insights
+
+📫 *Open to data analyst opportunities*
 
 
 
