@@ -13,8 +13,11 @@ collections:
     output          : true
 
 theme: jekyll-theme-minimal
-title: Dymon's Homepage
-description: Welcome to my Data Analysis Portfolio. Feel free to contact me.
+title: Dymon Harris
+description: Data Analyst | Predictive Analytics & Process Improvement  
+Python • SQL • Data Visualization • Machine Learning  
+Turning data into decisions that reduce risk, improve performance and profitability
+
 
 
 # Handling Reading
