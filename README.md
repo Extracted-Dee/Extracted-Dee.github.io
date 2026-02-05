@@ -1,16 +1,13 @@
 # Dymon's Portfolio 
+<!DOCTYPE html>
 <html>
+<body>
 
-# 🏭 Manufacturing Defect Reduction Analysis  
-### 📊 Quality Improvement in Electronic Board Production
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
-> A data-driven process improvement project focused on reducing welding defects while increasing production capacity in an electronics manufacturing facility.
-
----
-
-## 📌 Project Overview
-
-A manufacturing plant producing electronic circuit boards experienced a rise in **welding-related defects** during the **Manual Finish (Thru-Hole) process**, while also facing increased product demand.
+</body>
+</html>
 
 
 <div style="height:120px;width:520px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
@@ -327,5 +324,3 @@ I get 10 times more traffic from [Google] [1] than from
   [1]: http://google.com/        "Google"
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
-
-</html>
