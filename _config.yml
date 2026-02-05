@@ -17,6 +17,20 @@ logo: "https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png"
 title: Dymon Harris
 description: <p style="text-align: center">Data Analyst <br> Predictive Analytics & Process Improvement | <br>Python • SQL • Data Visualization • Machine Learning |<br> Turning data into decisions that reduce risk, improve performance and profitability</p>
   <br><a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+  text-align: center;
+}
+h4.description { /* Header 4 - and the author and data headers use this too  */
+    font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
 
 # Handling Reading
 safe                : false
