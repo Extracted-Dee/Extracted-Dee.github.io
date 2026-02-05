@@ -31,6 +31,7 @@
 📫 *Open to data analyst opportunities*
 
 <img src="https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png" alt="alternatetext">
+![Alt text](Screen Shot 2025-06-29 at 11.56.55 PM.png.jpg)
 
 
 # 🏭 Manufacturing Defect Reduction Analysis  
