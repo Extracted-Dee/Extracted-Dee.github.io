@@ -24,12 +24,6 @@ h1.title {
   color: DarkRed;
   text-align: center;
 }
-h4.description { /* Header 4 - and the author and data headers use this too  */
-    font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkRed;
-  text-align: center;
-}
 </style>
 
 # Handling Reading
