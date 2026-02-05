@@ -13,7 +13,7 @@ collections:
     output          : true
 
 theme: jekyll-theme-minimal
-title: Dymon's Portfolio
+title: Dymon's Homepage
 description: Welcome to my Data Analysis Portfolio.  my project updates!
 
 # Handling Reading
