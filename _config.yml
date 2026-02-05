@@ -15,7 +15,8 @@ collections:
 theme: jekyll-theme-minimal
 picture: <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 title: Dymon's Homepage
-description: Welcome to my Data Analysis Portfolio.  my project updates!
+description: Welcome to my Data Analysis Portfolio. Feel free to contact me. Email: Dymonch11@gmail.com
+LinkedIn
 comments_html: View all %{count} <img src="%{https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdGyyM8cu7PzbhwSBpS6vhdDcrMjxnjbnPpA&s}" alt="%{img_alt} style="%{img_style}"> comments
 
 t('show.comments_html', count: 10, img_src: image_path("comments.png"), img_alt: 'some alt', ...)
