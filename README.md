@@ -1,7 +1,16 @@
 # Dymon's Portfolio 
-<!DOCTYPE html>
 <html lang="en">
 <head>
+# 🏭 Manufacturing Defect Reduction Analysis  
+### 📊 Quality Improvement in Electronic Board Production
+
+> A data-driven process improvement project focused on reducing welding defects while increasing production capacity in an electronics manufacturing facility.
+
+---
+
+## 📌 Project Overview
+
+A manufacturing plant producing electronic circuit boards experienced a rise in **welding-related defects** during the **Manual Finish (Thru-Hole) process**, while also facing increased product demand.
 
         p {
             wowowoww
