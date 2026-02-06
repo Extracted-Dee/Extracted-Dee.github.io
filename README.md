@@ -26,12 +26,12 @@
 ## 🔍 Featured Projects
 - 🏭 **Manufacturing Defect Reduction Analysis**  
   Data-driven quality improvement using defect trend analysis and root cause frameworks
-  <br>
+  <br><br>
   <a href= "https://extracted-dee.github.io/Manufacturing-Defect-Reduction-Analysis-Project.github.io/"><img src="https://img.shields.io/badge/Manufacturing%20Defect%20Reduction%20Analysis%20Project-8A2BE2?style=for-the-badge&logoColor=white&labelColor=green&color=green"></a>
 
 - 📉 **Employee Attrition Prediction**  
   Machine learning models (Logistic Regression & Random Forest) to identify turnover risk
-  <br>
+  <br><br>
   <a href= "https://extracted-dee.github.io/Employee-Attrition-Prediction-Project/"><img src="https://img.shields.io/badge/Employee%20Attrition%20Prediction%20Project-8A2BE2?style=for-the-badge&logoColor=white&labelColor=green&color=green"></a>
 
 
