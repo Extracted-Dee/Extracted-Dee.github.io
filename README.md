@@ -10,8 +10,11 @@
 </html>
 # Hi, I’m Dymon<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
+**Feel free to contact me via these options below** 
 <br>
-<a href="https://profile.indeed.com/p/dymonh-c8zb065"><img src="https://img.shields.io/badge/Indeed-8A2BE2?style=plastic&logo=indeed&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fprofile.indeed.com%2Fp%2Fdymonh-c8zb065">[4]</a>[4]
+**Feel free to contact me via these options below** 
+<a href="https://profile.indeed.com/p/dymonh-c8zb065"><img src="https://img.shields.io/badge/Indeed-8A2BE2?style=plastic&logo=indeed&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fprofile.indeed.com%2Fp%2Fdymonh-c8zb065"></a>
+<a href="[https://github.com/Extracted-Dee)](https://github.com/Extracted-Dee)"><img src="https://img.shields.io/badge/Github-8A2BE2?style=plastic&logo=github&logoColor=white&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FExtracted-Dee"></a>
 
 
 📊 **Aspiring Data Analyst** with hands-on experience in:
@@ -211,10 +214,3 @@ It highlights the ability to:
 📬 *Feel free to explore the project files and analysis for more detail on the methodology and findings.*
 
 
-I get 10 times more traffic from [Google] [1] than from
-[Yahoo] [2] or [MSN] [3].
-
-  [1]: http://google.com/        "Google"
-  [2]: http://search.yahoo.com/  "Yahoo Search"
-  [3]: http://search.msn.com/    "MSN Search"
-  [4]: https://profile.indeed.com/p/dymonh-c8zb065  "Indeed Profile"
