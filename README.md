@@ -15,6 +15,7 @@
 <br><br>
 <a href="https://profile.indeed.com/p/dymonh-c8zb065"><img src="https://img.shields.io/badge/Indeed-8A2BE2?style=plastic&logo=indeed&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fprofile.indeed.com%2Fp%2Fdymonh-c8zb065"></a>
 <a href="https://github.com/Extracted-Dee"><img src="https://img.shields.io/badge/Github-8A2BE2?style=plastic&logo=github&logoColor=white&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FExtracted-Dee"></a>
+<a href= "mailto:dymonch11@gmail.com"><img src= "https://img.shields.io/badge/Gmail-8A2BE2?style=plastic&logo=gmail&logoColor=white&labelColor=cornflowerblue&color=cornflowerblue"></a>
 
 
 📊 **Aspiring Data Analyst** with hands-on experience in:
