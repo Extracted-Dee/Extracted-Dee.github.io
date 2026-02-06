@@ -48,5 +48,6 @@
   <a href= "https://extracted-dee.github.io/Employee-Attrition-Prediction-Project/"><img src="https://img.shields.io/badge/Employee%20Attrition%20Prediction%20Project-8A2BE2?style=for-the-badge&logoColor=white&labelColor=green&color=green"></a>
 
 
+📬 *Feel free to explore the project files and analysis for more detail on the methodology and findings.*
 
 
