@@ -4,7 +4,7 @@
 <body>
 
 <h1></h1>
-<p>.</p>
+<p></p>
 
 </body>
 </html>
@@ -28,9 +28,11 @@
 - Statistical Analysis
 - Business & Operational Insights
 
+<img src="[https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png](https://camo.githubusercontent.com/b1586e306af6c7b327cbec5cf88f8093bef26ea820078574b4f78c53a968c6e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)" alt="alternatetext">
+
 📫 *Open to data analyst opportunities*
 
-<img src="https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png" alt="alternatetext">
+<img src="[https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png](https://camo.githubusercontent.com/b1586e306af6c7b327cbec5cf88f8093bef26ea820078574b4f78c53a968c6e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)" alt="alternatetext">
 ![Alt text](Screen Shot 2025-06-29 at 11.56.55 PM.png)
 ![test text](rename.png)
 
