@@ -40,7 +40,7 @@
 - 🏭 **Manufacturing Defect Reduction Analysis**  
   Data-driven quality improvement using defect trend analysis and root cause frameworks
   <br><br>
-  <img src="https://img.icons8.com/?size=100&id=QIu3lQM3WFpB&format=png&color=000000" width="100" height="100">**Click Here to View This Project**<img src="https://img.icons8.com/?size=100&id=QIu3lQM3WFpB&format=png&color=000000"><br>
+  <img src="https://img.icons8.com/?size=100&id=QIu3lQM3WFpB&format=png&color=000000" width="50" height="50">**Click Here to View This Project**<img src="https://img.icons8.com/?size=100&id=QIu3lQM3WFpB&format=png&color=000000"><br>
   <a href= "https://extracted-dee.github.io/Manufacturing-Defect-Reduction-Analysis-Project.github.io/"><img src="https://img.shields.io/badge/Manufacturing%20Defect%20Reduction%20Analysis%20Project-8A2BE2?style=for-the-badge&logoColor=white&labelColor=green&color=green"></a>
 
 - 📉 **Employee Attrition Prediction**  
