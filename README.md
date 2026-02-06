@@ -9,6 +9,9 @@
 </body>
 </html>
 # Hi, I’m Dymon 👋
+<br>
+<img src="https://img.shields.io/badge/Indeed-8A2BE2?style=plastic&logo=indeed&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fprofile.indeed.com%2Fp%2Fdymonh-c8zb065">
+
 
 📊 **Aspiring Data Analyst** with hands-on experience in:
 - Predictive modeling & machine learning
