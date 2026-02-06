@@ -29,7 +29,7 @@
 - Business & Operational Insights
 
 <img src="https://camo.githubusercontent.com/b1586e306af6c7b327cbec5cf88f8093bef26ea820078574b4f78c53a968c6e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b" alt="alternatetext">
-[<img src= "https://img.shields.io/badge/LOL?style=plastic&logo=indeed&logoColor=white&logoSize=auto&labelColor=gray&link=indeed.com">](https://img.shields.io/badge/Indeed-8A2BE2?style=plastic&logo=indeed&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fprofile.indeed.com%2Fp%2Fdymonh-c8zb065)
+
 
 <img src="https://img.shields.io/badge/Indeed-8A2BE2?style=plastic&logo=indeed&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fprofile.indeed.com%2Fp%2Fdymonh-c8zb065">
 
