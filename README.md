@@ -8,7 +8,7 @@
 
 </body>
 </html>
-# Hi, I’m Dymon 👋
+# Hi, I’m Dymon ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)👋
 <br>
 <img src="https://img.shields.io/badge/Indeed-8A2BE2?style=plastic&logo=indeed&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fprofile.indeed.com%2Fp%2Fdymonh-c8zb065">
 
